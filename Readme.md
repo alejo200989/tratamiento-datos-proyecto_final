@@ -1,7 +1,7 @@
-#Tratamiento de Datos - proyecto final
+# Tratamiento de Datos - proyecto final
 
-##Autor: Alejandro Fabián Ortiz Jácome
-##Materia: Tratamiento de datos
+## Autor: Alejandro Fabián Ortiz Jácome
+## Materia: Tratamiento de datos
 
 ### **Resumen**
 
